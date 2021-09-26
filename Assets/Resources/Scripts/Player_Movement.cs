@@ -7,7 +7,7 @@ public class Player_Movement : MonoBehaviour
     public Vector2 Speed;
     private Rigidbody2D PlayerRB;
     public float JumpHeight;
-    public bool OnGround;
+    private bool OnGround;
     private SpriteRenderer SpriteRenderer;
     // Start is called before the first frame update
     void Start()
