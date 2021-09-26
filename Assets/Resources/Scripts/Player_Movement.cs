@@ -8,10 +8,12 @@ public class Player_Movement : MonoBehaviour
     private Rigidbody2D PlayerRB;
     public float JumpHeight;
     public bool OnGround;
+    private SpriteRenderer SpriteRenderer;
     // Start is called before the first frame update
     void Start()
     {
         this.PlayerRB = this.gameObject.GetComponent<Rigidbody2D>();
+        this.SpriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -19,11 +21,22 @@ public class Player_Movement : MonoBehaviour
     {
         float inputX = Input.GetAxis("Horizontal");
         Vector3 movement = new Vector3(this.Speed.x * inputX, 0, 0);
+
         if(this.OnGround && Input.GetKey(KeyCode.Space))
         {
             PlayerRB.AddForce(Vector2.up * this.JumpHeight * 9.8f);
             this.OnGround = false;
         }
+
+        if(inputX < 0)
+        {
+            this.SpriteRenderer.flipX = true;
+        }
+        else if(inputX > 0)
+        {
+            this.SpriteRenderer.flipX = false;
+        }
+
         movement.y = this.transform.position.y;
 
         transform.Translate(movement * Time.deltaTime);
