@@ -260,7 +260,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb4ea15948750cb438cde94580b9a35f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: 10, y: 10}
+  Speed: {x: 10, y: 0}
+  JumpHeight: 30
+  OnGround: 0
 --- !u!1 &6806144749620662942
 GameObject:
   m_ObjectHideFlags: 0

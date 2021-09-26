@@ -4,23 +4,36 @@ using UnityEngine;
 
 public class Player_Movement : MonoBehaviour
 {
-    public Vector2 speed;
+    public Vector2 Speed;
+    private Rigidbody2D PlayerRB;
+    public float JumpHeight;
+    public bool OnGround;
     // Start is called before the first frame update
     void Start()
     {
-        
+        this.PlayerRB = this.gameObject.GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
         float inputX = Input.GetAxis("Horizontal");
-        float inputY = Input.GetAxis("Vertical");
+        Vector3 movement = new Vector3(this.Speed.x * inputX, 0, 0);
+        if(this.OnGround && Input.GetKey(KeyCode.Space))
+        {
+            PlayerRB.AddForce(Vector2.up * this.JumpHeight * 9.8f);
+            this.OnGround = false;
+        }
+        movement.y = this.transform.position.y;
 
-        Vector3 movement = new Vector3(speed.x * inputX, speed.y * inputY, 0);
+        transform.Translate(movement * Time.deltaTime);
+    }
 
-        movement *= Time.deltaTime;
-
-        transform.Translate(movement);
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.CompareTag("Ground"))
+        {
+            this.OnGround = true;
+        }
     }
 }
