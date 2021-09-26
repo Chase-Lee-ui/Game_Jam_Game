@@ -37,8 +37,6 @@ public class Player_Movement : MonoBehaviour
             this.SpriteRenderer.flipX = false;
         }
 
-        movement.y = this.transform.position.y;
-
         transform.Translate(movement * Time.deltaTime);
     }
 
