@@ -9,6 +9,7 @@ public class Player_Movement : MonoBehaviour
     public float JumpHeight;
     private bool OnGround;
     private SpriteRenderer SpriteRenderer;
+    public float GravityModifier;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,9 +23,9 @@ public class Player_Movement : MonoBehaviour
         float inputX = Input.GetAxis("Horizontal");
         Vector3 movement = new Vector3(this.Speed.x * inputX, 0, 0);
 
-        if(this.OnGround && Input.GetKey(KeyCode.Space))
+        if(this.OnGround && Input.GetKeyDown(KeyCode.Space))
         {
-            PlayerRB.AddForce(Vector2.up * this.JumpHeight * 9.8f);
+            PlayerRB.AddForce(Vector2.up * this.JumpHeight * this.GravityModifier);
             this.OnGround = false;
         }
 
