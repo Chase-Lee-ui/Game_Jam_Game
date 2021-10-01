@@ -518,5 +518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box_Pet
       objectReference: {fileID: 0}
+    - target: {fileID: 3833512362325205985, guid: f69db59aa8210bd42b3d3ab483b74810,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f69db59aa8210bd42b3d3ab483b74810, type: 3}
