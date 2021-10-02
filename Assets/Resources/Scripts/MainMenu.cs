@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour {
 
 
     public void PlayGame() {
-        SceneManager.LoadScene("Base Scene", LoadSceneMode.Single);
+        SceneManager.LoadScene("Testing_Pets", LoadSceneMode.Single);
     }
 
     public void HowToPlay() {
