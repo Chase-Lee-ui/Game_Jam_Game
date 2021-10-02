@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 828431401671727489}
   - component: {fileID: 828431401671727491}
   m_Layer: 0
-  m_Name: AstroStay
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -446,5 +446,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: {x: 10, y: 0}
-  JumpHeight: 30
-  OnGround: 0
+  JumpHeight: 40
+  GravityModifier: 9.8
