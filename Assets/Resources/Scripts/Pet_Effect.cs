@@ -7,11 +7,13 @@ public class Pet_Effect : MonoBehaviour
     public Pet_Pick_Up Pet_Pick_Up;
     private BoxCollider2D BoxCollider;
     public Vector3 ScaleChange;
+    private Rigidbody2D BoxRigidbody;
     // Start is called before the first frame update
     void Start()
     {
         this.Pet_Pick_Up = this.gameObject.GetComponent<Pet_Pick_Up>();
         this.BoxCollider = this.gameObject.GetComponent<BoxCollider2D>();
+        this.BoxRigidbody = this.gameObject.GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -29,6 +31,7 @@ public class Pet_Effect : MonoBehaviour
             else
             {
                 this.gameObject.transform.localScale += this.ScaleChange;
+                this.BoxRigidbody.velocity = Vector3.zero;
             }
         }
     }
