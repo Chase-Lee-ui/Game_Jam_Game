@@ -71,3 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Library/shadercompiler-UnityShaderCompiler.exe0.log
+
+# Testing wonky generated files
+*.shader
+*.cginc
