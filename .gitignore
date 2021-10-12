@@ -75,3 +75,5 @@ Library/shadercompiler-UnityShaderCompiler.exe0.log
 # Testing wonky generated files
 *.shader
 *.cginc
+*.exe0.log
+
