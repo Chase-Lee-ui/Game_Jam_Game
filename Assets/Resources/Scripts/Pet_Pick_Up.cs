@@ -43,7 +43,8 @@ public class Pet_Pick_Up : MonoBehaviour
             {
                 this.PetRB.AddForce(Vector2.up * this.JumpHeight * 9.8f);
             }
-            else if(this.transform.position.y >= boundsYHigh)
+            
+            if(this.transform.position.y >= boundsYHigh)
             {
                 this.PetRB.AddForce(Vector2.down * this.JumpHeight * 9.8f);
             }
@@ -52,14 +53,10 @@ public class Pet_Pick_Up : MonoBehaviour
             {
                 this.PetRB.AddForce(Vector2.right * this.JumpHeight * absX);
             }
-            else if(this.transform.position.x >= boundsXRight)
+            
+            if(this.transform.position.x >= boundsXRight)
             {
                 this.PetRB.AddForce(Vector2.left * this.JumpHeight * absX);
-            }
-
-            if(this.Player)
-            {
-                transform.Translate(this.Player.gameObject.transform.position * Time.deltaTime * 0.95f);
             }
         }
     }
