@@ -76,3 +76,4 @@ Library/shadercompiler-UnityShaderCompiler.exe0.log
 *.shader
 *.cginc
 Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.exe0.log
