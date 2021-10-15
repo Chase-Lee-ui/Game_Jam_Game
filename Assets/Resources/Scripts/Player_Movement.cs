@@ -47,5 +47,9 @@ public class Player_Movement : MonoBehaviour
         {
             this.OnGround = true;
         }
+        if (collision.gameObject.CompareTag("Damage")) {
+            FindObjectOfType<HealthUI>().SubHealth();
+        }
     }
+
 }
