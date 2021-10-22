@@ -18,4 +18,8 @@ public class MainMenu : MonoBehaviour
     public void TitleScreen() {
         SceneManager.LoadScene("Title", LoadSceneMode.Single);
     }
+
+    public void Credits() {
+        SceneManager.LoadScene("Credits", LoadSceneMode.Single);
+    }
 }
