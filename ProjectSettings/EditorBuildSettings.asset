@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Testing_Pets.unity
     guid: 4d1b2282a881bd24e8158b4c34304650
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: a0639fa73009cfe4f9225c5119a6d464
   m_configObjects: {}
