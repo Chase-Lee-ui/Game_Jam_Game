@@ -1,0 +1,2441 @@
+fileFormatVersion: 2
+guid: cb5437e14edd4134eb40d976bd74ba5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2735341108219865212
+    second: ringspritesheet_0
+  - first:
+      213: -1245347433691285271
+    second: ringspritesheet_1
+  - first:
+      213: 5989205707863709908
+    second: ringspritesheet_2
+  - first:
+      213: -597028307750007491
+    second: ringspritesheet_3
+  - first:
+      213: -4975194500070085287
+    second: ringspritesheet_4
+  - first:
+      213: -3768325753234059430
+    second: ringspritesheet_5
+  - first:
+      213: 7911025004296061662
+    second: ringspritesheet_6
+  - first:
+      213: 4014079721955807431
+    second: ringspritesheet_7
+  - first:
+      213: -548608676069124427
+    second: ringspritesheet_8
+  - first:
+      213: -1622773813102170334
+    second: ringspritesheet_9
+  - first:
+      213: -2235867125913193797
+    second: ringspritesheet_10
+  - first:
+      213: 3173170045543947255
+    second: ringspritesheet_11
+  - first:
+      213: 720659531973254068
+    second: ringspritesheet_12
+  - first:
+      213: 1234736567135861957
+    second: ringspritesheet_13
+  - first:
+      213: 5501836301968822968
+    second: ringspritesheet_14
+  - first:
+      213: 1727938308666488766
+    second: ringspritesheet_15
+  - first:
+      213: -8395333149529272040
+    second: ringspritesheet_16
+  - first:
+      213: 3504612362599232764
+    second: ringspritesheet_17
+  - first:
+      213: -2909971770143948662
+    second: ringspritesheet_18
+  - first:
+      213: -2267391189247234742
+    second: ringspritesheet_19
+  - first:
+      213: 6926787431871086331
+    second: ringspritesheet_20
+  - first:
+      213: 5557605466039911142
+    second: ringspritesheet_21
+  - first:
+      213: 6448203545340266018
+    second: ringspritesheet_22
+  - first:
+      213: 204711376784939506
+    second: ringspritesheet_23
+  - first:
+      213: 860038673763983696
+    second: ringspritesheet_24
+  - first:
+      213: 3412370685260975210
+    second: ringspritesheet_25
+  - first:
+      213: 7731577173648538488
+    second: ringspritesheet_26
+  - first:
+      213: -3658660349019475054
+    second: ringspritesheet_27
+  - first:
+      213: -992964587259635060
+    second: ringspritesheet_28
+  - first:
+      213: 1485393874188760202
+    second: ringspritesheet_29
+  - first:
+      213: 8940359262760635906
+    second: ringspritesheet_30
+  - first:
+      213: 6018906917838943181
+    second: ringspritesheet_31
+  - first:
+      213: 3484528209438904411
+    second: ringspritesheet_32
+  - first:
+      213: -1510171704902587536
+    second: ringspritesheet_33
+  - first:
+      213: -5759168944685305437
+    second: ringspritesheet_34
+  - first:
+      213: 8509457194825522893
+    second: ringspritesheet_35
+  - first:
+      213: -4379554845821548273
+    second: ringspritesheet_36
+  - first:
+      213: -4874861319464307794
+    second: ringspritesheet_37
+  - first:
+      213: 7301369479323421840
+    second: ringspritesheet_38
+  - first:
+      213: 1265492565385645410
+    second: ringspritesheet_39
+  - first:
+      213: -6811851556146753163
+    second: ringspritesheet_40
+  - first:
+      213: -495724136060734200
+    second: ringspritesheet_41
+  - first:
+      213: -695144788805660491
+    second: ringspritesheet_42
+  - first:
+      213: -8238777533601568137
+    second: ringspritesheet_43
+  - first:
+      213: 7752217874691636624
+    second: ringspritesheet_44
+  - first:
+      213: 5726133144620904257
+    second: ringspritesheet_45
+  - first:
+      213: 1822871788773761198
+    second: ringspritesheet_46
+  - first:
+      213: 225760670517711853
+    second: ringspritesheet_47
+  - first:
+      213: -6811874001426459426
+    second: ringspritesheet_48
+  - first:
+      213: 6432098901948947193
+    second: ringspritesheet_49
+  - first:
+      213: -88980629417737671
+    second: ringspritesheet_50
+  - first:
+      213: 5524612978542439876
+    second: ringspritesheet_51
+  - first:
+      213: -1241052245627490210
+    second: ringspritesheet_52
+  - first:
+      213: -2935682053603703336
+    second: ringspritesheet_53
+  - first:
+      213: -5954729127973679281
+    second: ringspritesheet_54
+  - first:
+      213: -174289605695575759
+    second: ringspritesheet_55
+  - first:
+      213: -4627014982561778870
+    second: ringspritesheet_56
+  - first:
+      213: -480491936058000883
+    second: ringspritesheet_57
+  - first:
+      213: 729987344614957883
+    second: ringspritesheet_58
+  - first:
+      213: -6229412778494933372
+    second: ringspritesheet_59
+  - first:
+      213: -4877451139245761775
+    second: ringspritesheet_60
+  - first:
+      213: 7285835656109930424
+    second: ringspritesheet_61
+  - first:
+      213: -4557927522497036167
+    second: ringspritesheet_62
+  - first:
+      213: 174174429693562513
+    second: ringspritesheet_63
+  - first:
+      213: -4526000373136726688
+    second: ringspritesheet_64
+  - first:
+      213: -2308684403232006679
+    second: ringspritesheet_65
+  - first:
+      213: -7695221143408276141
+    second: ringspritesheet_66
+  - first:
+      213: -1866569814250547459
+    second: ringspritesheet_67
+  - first:
+      213: -3376822259896701031
+    second: ringspritesheet_68
+  - first:
+      213: 122861278226908819
+    second: ringspritesheet_69
+  - first:
+      213: 2576129381058248635
+    second: ringspritesheet_70
+  - first:
+      213: -933446703113472330
+    second: ringspritesheet_71
+  - first:
+      213: 5605737304313035932
+    second: ringspritesheet_72
+  - first:
+      213: -9210932835308416673
+    second: ringspritesheet_73
+  - first:
+      213: -7783458323273777972
+    second: ringspritesheet_74
+  - first:
+      213: 4567735410956523395
+    second: ringspritesheet_75
+  - first:
+      213: 8529403924365118430
+    second: ringspritesheet_76
+  - first:
+      213: 8628672307952477946
+    second: ringspritesheet_77
+  - first:
+      213: -190915401762702568
+    second: ringspritesheet_78
+  - first:
+      213: -5954100626630014065
+    second: ringspritesheet_79
+  - first:
+      213: 2965217255733131979
+    second: ringspritesheet_80
+  - first:
+      213: -4235156503021266009
+    second: ringspritesheet_81
+  - first:
+      213: -3504944744789012600
+    second: ringspritesheet_82
+  - first:
+      213: -6526406262211124691
+    second: ringspritesheet_83
+  - first:
+      213: 5625040825506229209
+    second: ringspritesheet_84
+  - first:
+      213: 6271878813744733157
+    second: ringspritesheet_85
+  - first:
+      213: 3172946444886432676
+    second: ringspritesheet_86
+  - first:
+      213: 8310702867508586039
+    second: ringspritesheet_87
+  - first:
+      213: 2580121786182282483
+    second: ringspritesheet_88
+  - first:
+      213: -1842533965083737277
+    second: ringspritesheet_89
+  - first:
+      213: -7834012500837353665
+    second: ringspritesheet_90
+  - first:
+      213: 1733911143321545978
+    second: ringspritesheet_91
+  - first:
+      213: 7837479870131330001
+    second: ringspritesheet_92
+  - first:
+      213: -8979266727378468976
+    second: ringspritesheet_93
+  - first:
+      213: 5319906335632777528
+    second: ringspritesheet_94
+  - first:
+      213: -8889292911955682868
+    second: ringspritesheet_95
+  - first:
+      213: 495209792383140875
+    second: ringspritesheet_96
+  - first:
+      213: -717733201654325246
+    second: ringspritesheet_97
+  - first:
+      213: 5323897634001703963
+    second: ringspritesheet_98
+  - first:
+      213: 1973823207236324494
+    second: ringspritesheet_99
+  - first:
+      213: -4550923934869203039
+    second: ringspritesheet_100
+  - first:
+      213: -8635367377734541495
+    second: ringspritesheet_101
+  - first:
+      213: 4839540867448017995
+    second: ringspritesheet_102
+  - first:
+      213: -2097107938499301001
+    second: ringspritesheet_103
+  - first:
+      213: 5435209993254594950
+    second: ringspritesheet_104
+  - first:
+      213: -1966420736618951665
+    second: ringspritesheet_105
+  - first:
+      213: -6778376424361185312
+    second: ringspritesheet_106
+  - first:
+      213: -926975687168754241
+    second: ringspritesheet_107
+  - first:
+      213: 9146226279011750620
+    second: ringspritesheet_108
+  - first:
+      213: 2068744941602091667
+    second: ringspritesheet_109
+  - first:
+      213: 2884937178539735149
+    second: ringspritesheet_110
+  - first:
+      213: 1095475834312026222
+    second: ringspritesheet_111
+  - first:
+      213: -6868969463587817750
+    second: ringspritesheet_112
+  - first:
+      213: 1727251102608398526
+    second: ringspritesheet_113
+  - first:
+      213: 2335419336085132693
+    second: ringspritesheet_114
+  - first:
+      213: 5964471195218962358
+    second: ringspritesheet_115
+  - first:
+      213: -87306426771717035
+    second: ringspritesheet_116
+  - first:
+      213: -4484092630871069747
+    second: ringspritesheet_117
+  - first:
+      213: -5662639662522861532
+    second: ringspritesheet_118
+  - first:
+      213: -4578871180045136164
+    second: ringspritesheet_119
+  - first:
+      213: 4407019202379926498
+    second: ringspritesheet_120
+  - first:
+      213: -551184671566186200
+    second: ringspritesheet_121
+  - first:
+      213: 1090696380696222449
+    second: ringspritesheet_122
+  - first:
+      213: -3370029307935094533
+    second: ringspritesheet_123
+  - first:
+      213: -4357642028229670437
+    second: ringspritesheet_124
+  - first:
+      213: 377819236026160955
+    second: ringspritesheet_125
+  - first:
+      213: 971849071068335344
+    second: ringspritesheet_126
+  - first:
+      213: -973153798413731239
+    second: ringspritesheet_127
+  - first:
+      213: -5717243784660932996
+    second: ringspritesheet_128
+  - first:
+      213: -7972929258714557311
+    second: ringspritesheet_129
+  - first:
+      213: -5813027532543106847
+    second: ringspritesheet_130
+  - first:
+      213: 5571229132815006521
+    second: ringspritesheet_131
+  - first:
+      213: 5951173791305197172
+    second: ringspritesheet_132
+  - first:
+      213: 7269505077658502718
+    second: ringspritesheet_133
+  - first:
+      213: 7305538784685018600
+    second: ringspritesheet_134
+  - first:
+      213: -5438166044392218869
+    second: ringspritesheet_135
+  - first:
+      213: -4573086737607710639
+    second: ringspritesheet_136
+  - first:
+      213: -361958007773964345
+    second: ringspritesheet_137
+  - first:
+      213: 2199583401029188412
+    second: ringspritesheet_138
+  - first:
+      213: -304434563609174001
+    second: ringspritesheet_139
+  - first:
+      213: -7794089991670621868
+    second: ringspritesheet_140
+  - first:
+      213: -6139248632677194112
+    second: ringspritesheet_141
+  - first:
+      213: -904905906307050697
+    second: ringspritesheet_142
+  - first:
+      213: 5572512720514068726
+    second: ringspritesheet_0
+  - first:
+      213: -4240535755858244065
+    second: ringspritesheet_1
+  - first:
+      213: -2733292897394452730
+    second: ringspritesheet_2
+  - first:
+      213: -3482577048157940739
+    second: ringspritesheet_3
+  - first:
+      213: 5975640123564068405
+    second: ringspritesheet_4
+  - first:
+      213: 6350531634845273819
+    second: ringspritesheet_5
+  - first:
+      213: 68584993714236353
+    second: ringspritesheet_6
+  - first:
+      213: 6854678078987126454
+    second: ringspritesheet_7
+  - first:
+      213: -9157265571129396671
+    second: ringspritesheet_8
+  - first:
+      213: -2477710630945707646
+    second: ringspritesheet_9
+  - first:
+      213: 6822372743186524860
+    second: ringspritesheet_10
+  - first:
+      213: 5239038729732938104
+    second: ringspritesheet_11
+  - first:
+      213: 8829842747611102397
+    second: ringspritesheet_12
+  - first:
+      213: -3394188693685589794
+    second: ringspritesheet_13
+  - first:
+      213: -1428252838935992391
+    second: ringspritesheet_14
+  - first:
+      213: -4898257983763518357
+    second: ringspritesheet_15
+  - first:
+      213: -76403229022693465
+    second: ringspritesheet_16
+  - first:
+      213: 8591208471697237662
+    second: ringspritesheet_17
+  - first:
+      213: 8802773066561051160
+    second: ringspritesheet_18
+  - first:
+      213: -3277247514258454206
+    second: ringspritesheet_19
+  - first:
+      213: 8477256115352319688
+    second: ringspritesheet_20
+  - first:
+      213: -8678511272689567681
+    second: ringspritesheet_21
+  - first:
+      213: -177964211327685998
+    second: ringspritesheet_22
+  - first:
+      213: 8571927974537270427
+    second: ringspritesheet_23
+  - first:
+      213: 8327368307195440939
+    second: ringspritesheet_24
+  - first:
+      213: 70615983140874358
+    second: ringspritesheet_25
+  - first:
+      213: -1431091284773742462
+    second: ringspritesheet_26
+  - first:
+      213: -1835844638968985203
+    second: ringspritesheet_27
+  - first:
+      213: 2636520184342834133
+    second: ringspritesheet_28
+  - first:
+      213: 7485773992265135632
+    second: ringspritesheet_29
+  - first:
+      213: -1892023371208498748
+    second: ringspritesheet_30
+  - first:
+      213: -9174660314902339612
+    second: ringspritesheet_31
+  - first:
+      213: -346144855195912272
+    second: ringspritesheet_32
+  - first:
+      213: -1705618220795328034
+    second: ringspritesheet_33
+  - first:
+      213: -4391598816087916415
+    second: ringspritesheet_34
+  - first:
+      213: -9023810847328722523
+    second: ringspritesheet_35
+  - first:
+      213: -7601104037116621077
+    second: ringspritesheet_36
+  - first:
+      213: -164394183766947511
+    second: ringspritesheet_37
+  - first:
+      213: 5214633559204329059
+    second: ringspritesheet_38
+  - first:
+      213: 592961098731520689
+    second: ringspritesheet_39
+  - first:
+      213: 6846576333116310025
+    second: ringspritesheet_40
+  - first:
+      213: 6324349043456698591
+    second: ringspritesheet_41
+  - first:
+      213: -5510342643559804448
+    second: ringspritesheet_42
+  - first:
+      213: 5477856103975011328
+    second: ringspritesheet_43
+  - first:
+      213: -8742974015022416943
+    second: ringspritesheet_44
+  - first:
+      213: 1234750222966309938
+    second: ringspritesheet_45
+  - first:
+      213: -8383736546227036683
+    second: ringspritesheet_46
+  - first:
+      213: 1691583708242831712
+    second: ringspritesheet_47
+  - first:
+      213: 1104972220477930441
+    second: ringspritesheet_48
+  - first:
+      213: -1564649824602444286
+    second: ringspritesheet_49
+  - first:
+      213: 5913913602025621368
+    second: ringspritesheet_50
+  - first:
+      213: -6389604286095196964
+    second: ringspritesheet_51
+  - first:
+      213: -9080297250967014797
+    second: ringspritesheet_52
+  - first:
+      213: -1155853303164125163
+    second: ringspritesheet_53
+  - first:
+      213: -961477275023152241
+    second: ringspritesheet_54
+  - first:
+      213: -7469406405379426816
+    second: ringspritesheet_55
+  - first:
+      213: -8628705393570113385
+    second: ringspritesheet_56
+  - first:
+      213: 685168535536049467
+    second: ringspritesheet_57
+  - first:
+      213: -3234066954876512973
+    second: ringspritesheet_58
+  - first:
+      213: -364373690969508033
+    second: ringspritesheet_59
+  - first:
+      213: -1870758201584415848
+    second: ringspritesheet_60
+  - first:
+      213: 481765055380255725
+    second: ringspritesheet_61
+  - first:
+      213: -5288436504673784233
+    second: ringspritesheet_62
+  - first:
+      213: 4896343744284225600
+    second: ringspritesheet_63
+  - first:
+      213: 9204268058497778539
+    second: ringspritesheet_64
+  - first:
+      213: 9150720793450871647
+    second: ringspritesheet_65
+  - first:
+      213: 502536569015693689
+    second: ringspritesheet_66
+  - first:
+      213: -1606693866124485132
+    second: ringspritesheet_67
+  - first:
+      213: 8410360672115246316
+    second: ringspritesheet_68
+  - first:
+      213: 4811007693900938582
+    second: ringspritesheet_69
+  - first:
+      213: 4390050277003295982
+    second: ringspritesheet_70
+  - first:
+      213: 8380245188171400419
+    second: ringspritesheet_71
+  - first:
+      213: 7474349440446074000
+    second: ringspritesheet_72
+  - first:
+      213: -5175696463554434414
+    second: ringspritesheet_73
+  - first:
+      213: 9196329281604340144
+    second: ringspritesheet_74
+  - first:
+      213: 7451383294456393436
+    second: ringspritesheet_75
+  - first:
+      213: -6921519596131681251
+    second: ringspritesheet_76
+  - first:
+      213: 4098924671790385407
+    second: ringspritesheet_77
+  - first:
+      213: -233165113554554527
+    second: ringspritesheet_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ringspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0369c7bca855d40800000000000000
+      internalID: 5572512720514068726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e0ab682379625c0800000000000000
+      internalID: -4240535755858244065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60794b76794611ad0800000000000000
+      internalID: -2733292897394452730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31e9d40a66bafc0800000000000000
+      internalID: -3482577048157940739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e8b96380dbde250800000000000000
+      internalID: 5975640123564068405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde45d510ee912850800000000000000
+      internalID: 6350531634845273819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb624b30b9a3f000800000000000000
+      internalID: 68584993714236353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64fab2565b02f50800000000000000
+      internalID: 6854678078987126454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142fae6fa7bdae080800000000000000
+      internalID: -9157265571129396671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289a5420f476d9dd0800000000000000
+      internalID: -2477710630945707646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa0fa0ddfedae50800000000000000
+      internalID: 6822372743186524860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879de3297fdc4b840800000000000000
+      internalID: 5239038729732938104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3be94237e98a70800000000000000
+      internalID: 8829842747611102397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed82934cd5b65e0d0800000000000000
+      internalID: -3394188693685589794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7e6c53c93dd2ce0800000000000000
+      internalID: -1428252838935992391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ced8bd054e50cb0800000000000000
+      internalID: -4898257983763518357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d8620baf80fef0800000000000000
+      internalID: -76403229022693465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9627da369a1a3770800000000000000
+      internalID: 8591208471697237662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5fb6077bb92a70800000000000000
+      internalID: 8802773066561051160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c797dfb0e482d0800000000000000
+      internalID: -3277247514258454206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63591c58345a570800000000000000
+      internalID: 8477256115352319688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387d1c6afbbf8780800000000000000
+      internalID: -8678511272689567681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa4112e7eb78df0800000000000000
+      internalID: -177964211327685998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94178aa31b95f670800000000000000
+      internalID: 8571927974537270427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fea38ea51c09370800000000000000
+      internalID: 8327368307195440939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a39eccd0eaf000800000000000000
+      internalID: 70615983140874358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28857e90f0eb32ce0800000000000000
+      internalID: -1431091284773742462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89c27f0705c586e0800000000000000
+      internalID: -1835844638968985203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe6e6832dc69420800000000000000
+      internalID: 2636520184342834133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01632ddd8cfc2e760800000000000000
+      internalID: 7485773992265135632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1616ca4ce2eb5e0800000000000000
+      internalID: -1892023371208498748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5f539d0f0da080800000000000000
+      internalID: -9174660314902339612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f731961f323bf0800000000000000
+      internalID: -346144855195912272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed98f03d34d6458e0800000000000000
+      internalID: -1705618220795328034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180cd0bf428ed03c0800000000000000
+      internalID: -4391598816087916415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a7a438dbf4c280800000000000000
+      internalID: -9023810847328722523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee40ee8624738690800000000000000
+      internalID: -7601104037116621077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9494e616c54f7bdf0800000000000000
+      internalID: -164394183766947511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366743208991e5840800000000000000
+      internalID: 5214633559204329059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b284874afe9a3800800000000000000
+      internalID: 592961098731520689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028ef676ece30f50800000000000000
+      internalID: 6846576333116310025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd861da72f994c750800000000000000
+      internalID: 6324349043456698591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15eeb8f845783b0800000000000000
+      internalID: -5510342643559804448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c2288a11450c40800000000000000
+      internalID: 5477856103975011328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3e12a477baa680800000000000000
+      internalID: -8742974015022416943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234cd3a29c6b22110800000000000000
+      internalID: 1234750222966309938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd5da7b70cf6ab80800000000000000
+      internalID: -8383736546227036683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e6a59b66b97710800000000000000
+      internalID: 1691583708242831712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf2405166a55f00800000000000000
+      internalID: 1104972220477930441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea1be364f394ae0800000000000000
+      internalID: -1564649824602444286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87786197611721250800000000000000
+      internalID: 5913913602025621368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7bff51c09357a0800000000000000
+      internalID: -6389604286095196964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b72d72cd4cf180800000000000000
+      internalID: -9080297250967014797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c0747b8595ffe0800000000000000
+      internalID: -1155853303164125163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b62a2338528a2f0800000000000000
+      internalID: -961477275023152241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006f45ce276575890800000000000000
+      internalID: -7469406405379426816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79891c0592ea04880800000000000000
+      internalID: -8628705393570113385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d96e32725328900800000000000000
+      internalID: 685168535536049467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33591c64d394e13d0800000000000000
+      internalID: -3234066954876512973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b3400f0c71faf0800000000000000
+      internalID: -364373690969508033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b89edc35bb906e0800000000000000
+      internalID: -1870758201584415848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f22fe3c29fa600800000000000000
+      internalID: 481765055380255725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee5b1b403bb96b0800000000000000
+      internalID: -5288436504673784233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040744881be43f340800000000000000
+      internalID: 4896343744284225600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630c3c68012cbf70800000000000000
+      internalID: 9204268058497778539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b7b6c3414edfe70800000000000000
+      internalID: 9150720793450871647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f2d2d85e59f600800000000000000
+      internalID: 502536569015693689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd9def070e3b9e0800000000000000
+      internalID: -1606693866124485132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44856a87a97b470800000000000000
+      internalID: 8410360672115246316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df2aef10224c240800000000000000
+      internalID: 4811007693900938582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf2eaa7779cec30800000000000000
+      internalID: 4390050277003295982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e402a3299c9c4470800000000000000
+      internalID: 8380245188171400419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c8dec17393ab760800000000000000
+      internalID: 7474349440446074000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa7980d7b3c28b0800000000000000
+      internalID: -5175696463554434414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9cc83e1ccef9f70800000000000000
+      internalID: 9196329281604340144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6a5f80a1a86760800000000000000
+      internalID: 7451383294456393436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7aae5992d1ff90800000000000000
+      internalID: -6921519596131681251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8862f954e42e830800000000000000
+      internalID: 4098924671790385407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringspritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16131988091a3ccf0800000000000000
+      internalID: -233165113554554527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -38,6 +38,7 @@ public class Pet_Pick_Up : MonoBehaviour
             var boundsYLow = this.Player.gameObject.transform.position.y + this.FollowBoundsY.y;
 
             var absX = Mathf.Abs(this.Player.gameObject.transform.position.x - this.gameObject.transform.position.x);
+            var absY = Mathf.Abs(this.Player.gameObject.transform.position.y - this.gameObject.transform.position.y);
 
             if(this.transform.position.y <= boundsYLow)
             {
