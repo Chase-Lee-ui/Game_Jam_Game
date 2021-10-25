@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 346746048}
   m_Layer: 0
   m_Name: quiltTerrain (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 377986443}
   m_Layer: 0
   m_Name: quiltTerrain (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 602108723}
   m_Layer: 0
   m_Name: quiltTerrain (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -458,7 +458,7 @@ GameObject:
   - component: {fileID: 780279113}
   m_Layer: 0
   m_Name: quiltTerrain (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -566,7 +566,7 @@ GameObject:
   - component: {fileID: 951712725}
   m_Layer: 0
   m_Name: quiltTerrain (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -674,7 +674,7 @@ GameObject:
   - component: {fileID: 1205129987}
   m_Layer: 0
   m_Name: quiltTerrain
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -825,7 +825,7 @@ GameObject:
   - component: {fileID: 1232764498}
   m_Layer: 0
   m_Name: quiltTerrain (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -933,7 +933,7 @@ GameObject:
   - component: {fileID: 1254406763}
   m_Layer: 0
   m_Name: quiltTerrain (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1041,7 +1041,7 @@ GameObject:
   - component: {fileID: 1426443877}
   m_Layer: 0
   m_Name: quiltTerrain (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1136,86 +1136,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &1484192220 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-    type: 3}
-  m_PrefabInstance: {fileID: 1521826447}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1521826447
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1700071651}
-    m_Modifications:
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 4.69
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.14
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 321558684487538802, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1301398064869132460, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_Name
-      value: Box_Pet
-      objectReference: {fileID: 0}
-    - target: {fileID: 3833512362325205985, guid: f69db59aa8210bd42b3d3ab483b74810,
-        type: 3}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f69db59aa8210bd42b3d3ab483b74810, type: 3}
 --- !u!1 &1590054609
 GameObject:
   m_ObjectHideFlags: 0
@@ -1229,7 +1149,7 @@ GameObject:
   - component: {fileID: 1590054611}
   m_Layer: 0
   m_Name: quiltTerrain (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1433,7 +1353,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1215657470}
-  - {fileID: 1484192220}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1452,7 +1371,7 @@ PrefabInstance:
     - target: {fileID: 828431401149882936, guid: f68844cf4f4b60c4eb2eb083e90d26f8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.715066
+      value: 1.7150667
       objectReference: {fileID: 0}
     - target: {fileID: 828431401368126630, guid: f68844cf4f4b60c4eb2eb083e90d26f8,
         type: 3}
@@ -1472,7 +1391,7 @@ PrefabInstance:
     - target: {fileID: 828431401368126631, guid: f68844cf4f4b60c4eb2eb083e90d26f8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.715066
+      value: 1.7150667
       objectReference: {fileID: 0}
     - target: {fileID: 828431401368126631, guid: f68844cf4f4b60c4eb2eb083e90d26f8,
         type: 3}
@@ -1497,7 +1416,7 @@ PrefabInstance:
     - target: {fileID: 828431401671727495, guid: f68844cf4f4b60c4eb2eb083e90d26f8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.71
+      value: 2.52
       objectReference: {fileID: 0}
     - target: {fileID: 828431401671727495, guid: f68844cf4f4b60c4eb2eb083e90d26f8,
         type: 3}
@@ -1560,7 +1479,7 @@ GameObject:
   - component: {fileID: 1892785115}
   m_Layer: 0
   m_Name: quiltTerrain (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1668,7 +1587,7 @@ GameObject:
   - component: {fileID: 1917548897}
   m_Layer: 0
   m_Name: quiltTerrain (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

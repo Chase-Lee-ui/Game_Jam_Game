@@ -61,12 +61,12 @@ public class Boss_Events : MonoBehaviour
             this.Timer = this.TimeEnd;
         }
 
-        if(this.PlayerWeaponTimer <= 0)
+        if(this.PlayerWeaponTimer <= -this.TimeEnd)
         {
             var UserWeapon = Instantiate(
                 this.SpawnedPlayerWeapon, 
                 new Vector3(Random.Range(this.XBounds.x, this.XBounds.y), 
-                this.YSpawn, this.gameObject.transform.position.z), 
+                8, this.gameObject.transform.position.z), 
                 Quaternion.identity);
             this.PlayerWeaponTimer = this.TimeEnd;
         }
@@ -78,6 +78,8 @@ public class Boss_Events : MonoBehaviour
         if(collision.gameObject.CompareTag("Weapon"))
         {
             this.NumHits++;
+            this.Timer = 2.0f;
+            this.PlayerWeaponTimer = 2.0f;
         }
     }
 }
